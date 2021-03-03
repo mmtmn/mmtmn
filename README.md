@@ -30,10 +30,10 @@ Currently completly in love with the science of computers, software, hardware, e
 </p>
 
 <p align="left">
-<img width=70% height=70% src="https://github.com/mmtmn/mmtmn/blob/main/giphy.gif">
+<img width="70" height="70" src="https://github.com/mmtmn/mmtmn/blob/main/giphy.gif">
 </p>
 <p align="right">
-<img width=50% height=50% src="https://github.com/mmtmn/mmtmn/blob/main/giphy2.gif">
+<img width="50" height="50" src="https://github.com/mmtmn/mmtmn/blob/main/giphy2.gif">
 </p>
 
 <p align="center">made with :heart: by mmtmn</p>
