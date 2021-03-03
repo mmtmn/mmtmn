@@ -16,7 +16,8 @@ I have a background in economics and I'm currently at my 3rd year in Computer Sc
 Currently completly in love with the science of the computers. I love reading books but I also love to get practical about the theory that I am reading, that is why this subject has suited me super well.
 
 Currently class representative of UNIP's Computer Science graduating class of 2022.
-
-<img align="center" src="https://github.com/mmtmn/mmtmn/blob/main/.github/computerScience.jpg">
+<p align="center">
+    <img align="center" src="https://github.com/mmtmn/mmtmn/blob/main/.github/computerScience.jpg">
+</p>
 
 <p align="center">made with :heart: by mmtmn</p>
