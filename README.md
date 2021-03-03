@@ -30,7 +30,7 @@ Currently completly in love with the science of computers, software, hardware, e
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/source.gif">
+<img src="https://media.giphy.com/media/XDd5b7NUbS1C1PMjUl/source.gif">
 </p>
 
 
