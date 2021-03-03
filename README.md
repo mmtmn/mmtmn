@@ -4,7 +4,7 @@
 **mmtmn/mmtmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" src="https://github.com/mmtmn/mmtmn/blob/main/.github/coding.jpg">
+<img align="right" width=50% height=50% src="https://github.com/mmtmn/mmtmn/blob/main/.github/coding.jpg">
 
 
 I'm in love with the universe. I find it fascinating and a little scary at the same time.
