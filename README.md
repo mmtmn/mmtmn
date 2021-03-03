@@ -7,7 +7,7 @@
 <img align="right" width=50% height=50% src="https://github.com/mmtmn/mmtmn/blob/main/.github/coding.jpg">
 
 
-I'm in love with the universe. I find it fascinating and a little scary at the same time.
+I'm in love with the enigma about the universe by which we live in. I find it fascinating and a little scary at the same time.
 
 
 
@@ -15,12 +15,12 @@ I'm in love with the universe. I find it fascinating and a little scary at the s
 
 <img align="left" width=50% height=50% src="https://github.com/mmtmn/mmtmn/blob/main/.github/universeImage.jpg">
 
-Background in economics and currently in the 3rd year of majoring in  Computer Science bachelor's degree. I've worked professionaly as a junior backend developer for a company called Letrus.
+With a background in economics, I'm currently in the 3rd year (out of 4) of majoring in Computer Science, working hard to get the bachelor's degree. I've worked professionaly as a junior backend developer for a company called Letrus. Currently with great grades across all semesters, among the top of the class total grades.
 
 
 
 
-Currently completly in love with the science of the computers. I love reading books but I also love to get practical about the theory that I am reading, that is why this subject has suited me super well.
+Currently completly in love with the science of computers, software, hardware, especially the physics and mathematical part of it all. I love reading books but I also love to get practical about the theory that I am reading/studying about, that is why this subject has suited me super well.
 
 
 
