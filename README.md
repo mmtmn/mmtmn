@@ -30,8 +30,8 @@ Currently completly in love with the science of computers, software, hardware, e
 </p>
 
 <p align="center">
-<img src="https://64.media.tumblr.com/04e20b5c4305c7c37c4ea51d3c9d5a46/tumblr_mmwvhaX1CH1r4mh0bo1_500.gif">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/source.gif">
 </p>
 
 
-<p align="right">made with :heart: by mmtmn</p>
+<p align="center">made with :heart: by mmtmn</p>
