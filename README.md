@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile, I love science and technology, coding is my passion. 
+### Welcome to my GitHub profile,
 
 <!--
 **mmtmn/mmtmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,4 +29,4 @@ Currently completly in love with the science of computers, software, hardware, e
     <img src="https://github.com/mmtmn/mmtmn/blob/main/.github/computerScience.jpg">
 </p>
 
-<p align="center">made with :heart: by mmtmn</p>
+<p align="right">made with :heart: by mmtmn</p>
