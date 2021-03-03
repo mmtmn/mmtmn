@@ -29,10 +29,7 @@ Currently completly in love with the science of computers, software, hardware, e
     <img src="https://github.com/mmtmn/mmtmn/blob/main/.github/computerScience.jpg">
 </p>
 
-<p align="left">
-<img width="70" height="70" src="https://github.com/mmtmn/mmtmn/blob/main/giphy.gif">
-</p>
-<p align="right">
+<p align="center">
 <img width="50" height="50" src="https://github.com/mmtmn/mmtmn/blob/main/giphy2.gif">
 </p>
 
