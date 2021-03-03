@@ -17,8 +17,9 @@ Currently completly in love with the science of the computers. I love reading bo
 
 Currently class representative of UNIP's Computer Science graduating class of 2022.
 
-
+<div align=center>
 ![](https://github.com/mmtmn/mmtmn/blob/main/.github/computerScience.jpg)
+</div>
 
 
 
