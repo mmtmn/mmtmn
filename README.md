@@ -31,4 +31,4 @@ Currently completly in love with the science of computers, software, hardware, e
 
 <p align="right">made with :heart: by mmtmn</p>
 
-<img src="https://www.89a.co.uk/post/50603635395/daft-junk">
+<img src="https://64.media.tumblr.com/04e20b5c4305c7c37c4ea51d3c9d5a46/tumblr_mmwvhaX1CH1r4mh0bo1_500.gif">
